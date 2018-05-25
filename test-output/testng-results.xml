@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45464" started-at="2018-05-25T10:33:49Z" finished-at="2018-05-25T10:34:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45464" started-at="2018-05-25T10:33:49Z" finished-at="2018-05-25T10:34:34Z">
+      <class name="qa.automation.api.last.REQUEST">
+        <test-method status="PASS" signature="start()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="start" is-config="true" duration-ms="18" started-at="2018-05-25T16:03:49Z" finished-at="2018-05-25T16:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="view_original()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="view_original" duration-ms="10467" started-at="2018-05-25T16:03:49Z" finished-at="2018-05-25T16:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_original -->
+        <test-method status="PASS" signature="POST_REQ()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="POST_REQ" duration-ms="2243" started-at="2018-05-25T16:03:59Z" finished-at="2018-05-25T16:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POST_REQ -->
+        <test-method status="PASS" signature="view_post_changes()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="view_post_changes" duration-ms="8096" started-at="2018-05-25T16:04:02Z" finished-at="2018-05-25T16:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_post_changes -->
+        <test-method status="PASS" signature="PUT_REQ()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="PUT_REQ" duration-ms="50" started-at="2018-05-25T16:04:10Z" finished-at="2018-05-25T16:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PUT_REQ -->
+        <test-method status="PASS" signature="view_putt_changes()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="view_putt_changes" duration-ms="8107" started-at="2018-05-25T16:04:10Z" finished-at="2018-05-25T16:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_putt_changes -->
+        <test-method status="PASS" signature="PATCH_REQ()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="PATCH_REQ" duration-ms="24" started-at="2018-05-25T16:04:18Z" finished-at="2018-05-25T16:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PATCH_REQ -->
+        <test-method status="PASS" signature="view_patch_changes()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="view_patch_changes" duration-ms="8185" started-at="2018-05-25T16:04:18Z" finished-at="2018-05-25T16:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_patch_changes -->
+        <test-method status="PASS" signature="DELETE_REQ()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="DELETE_REQ" duration-ms="70" started-at="2018-05-25T16:04:26Z" finished-at="2018-05-25T16:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DELETE_REQ -->
+        <test-method status="PASS" signature="view_delete_changes()[pri:0, instance:qa.automation.api.last.REQUEST@5f341870]" name="view_delete_changes" duration-ms="8162" started-at="2018-05-25T16:04:26Z" finished-at="2018-05-25T16:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_delete_changes -->
+      </class> <!-- qa.automation.api.last.REQUEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
